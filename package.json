@@ -16,7 +16,7 @@
     "codemirror": "^5.65.15",
     "emojione": "^4.5.0",
     "hypermd": "^0.3.11",
-    "katex": "^0.16.9",
+    "katex": "^0.16.10",
     "marked": "^9.1.2",
     "mathjax": "^3.2.2",
     "turndown": "^7.1.2",
